@@ -41,3 +41,16 @@ des données dans la base de données.
 
 Base de données Microsoft Access ou Sql Server qui contiendra toutes les données
 nécessaires pour Friendbook
+
+
+                                  Les exigences techniques et fonctionnelles
+
+
+
+• Pour la couche GUI : 
+ webformes avec interfaces user-friendly et
+thématiques (couleurs et images reliées à un site de rencontre).
+
+• Pour la couche Data :
+ Ado.net (Dataset, Datareader, Linq, Data
+Controles et Entité framework).
